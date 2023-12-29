@@ -31,16 +31,16 @@
         align-items: center;
     }
     .navbar a{
-        align-items: center;
+        text-align: center;
     }
     .navbar h3{
-        align-items: center;
+        text-align: center;
         margin-top: 10px;
     }
 
     .social-icons {
         margin-top: 10px; 
-        align-items: center;
+        text-align: center;
     }
 }
 
